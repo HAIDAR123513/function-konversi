@@ -1,0 +1,5 @@
+﻿  Guhardy.cpp
+D:\Project Programming\Visual Studio\Guhardy\Guhardy\Guhardy.cpp(126,7): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Project Programming\Visual Studio\Guhardy\Guhardy\Guhardy.cpp(150,8): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\Project Programming\Visual Studio\Guhardy\Guhardy\Guhardy.cpp(174,7): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  Guhardy.vcxproj -> D:\Project Programming\Visual Studio\Guhardy\Debug\Guhardy.exe
